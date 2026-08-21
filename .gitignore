@@ -1,0 +1,17 @@
+# Fichiers temporaires
+*.tmp
+*.swp
+*.swo
+*~
+
+# Journaux
+*.log
+
+# Répertoires d'outils
+node_modules/
+.npm/
+.cache/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
